@@ -12,6 +12,7 @@ export default function members() {
               subTitle="BD FACSMelody​"
               subTitle2=" "
               image="/BD-FACSMelody.png"
+              url="/technologies/BD-FACSMelody"
             >
             </TechnologyCard>
           </div>
@@ -45,7 +46,7 @@ export default function members() {
             </TechnologyCard>
           </div>
         </div>
-        <div className="row">
+        <div className="row mb-3">
           <div className="col-lg-6 d-flex align-items-stretch">
             <TechnologyCard
               title="Protein Quantification"

@@ -1,4 +1,4 @@
-export default function TechnologyCard({ image, title, subTitle, subTitle2, subTitle3 }) {
+export default function TechnologyCard({ image, title, subTitle, subTitle2, subTitle3, url }) {
   return (
     <>
       <div className="card mb-3 bg-light" style={{width: "100%"}}>
@@ -12,7 +12,9 @@ export default function TechnologyCard({ image, title, subTitle, subTitle2, subT
               <p className="mb-0 card-text">{subTitle}</p>
               <p className="mt-0 mb-0 card-text">{subTitle2}</p>
               <p className="mt-0 card-text">{subTitle3}</p>
-              <button className="btn btn-primary">Read more</button>
+              <a href={url}>
+                <button className="btn btn-primary">Read more</button>
+              </a>
             </div>
           </div>
         </div>
