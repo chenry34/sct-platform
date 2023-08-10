@@ -6,7 +6,7 @@ export default function contact() {
           <div className="d-flex justify-content-center">
             <h1 className="center mt-3 mb-3">Contact Us</h1>
           </div>
-          <div className="card bg-light" style={{marginRight: "5%", marginLeft: "5%"}}>
+          <div className="card bg-light" style={{marginRight: "5%", marginLeft: "5%", border: "none"}}>
             <div className="card-body">
               <div className="row">
                 <div className="col-sm-3"></div>
