@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className + " d-flex flex-column min-vh-100"} >
+      <body className={inter.className + " d-flex flex-column min-vh-100"}>
         <nav className="pt-4 mb-0 navbar navbar-expand-sm navbar-light bg-light">
           <div className="container">
             <div className="navbar-brand">
@@ -44,29 +44,30 @@ export default function RootLayout({ children }) {
             </div>
           </div>
         </nav>
-        <div className="bg-light mb-3">
+        <div className="bg-light">
           <div className="container bg-light">
             <hr className="m-0" />
-            <div className="pt-1 pb-1 bg-light"><p><strong>Quantitative Imaging, Phenotyping and Sorting Platform</strong></p></div>
+            <div className="pt-1 pb-1 bg-light"><h1 style={{fontSize: "20px"}}><strong>Quantitative Imaging, Phenotyping and Sorting Platform</strong></h1></div>
           </div>
         </div>
         {children}
-        <footer  className="pt-3 mt-auto text-center text-lg-start bg-light text-muted">
+        <footer  className="mt-auto text-center text-lg-start bg-light text-muted">
           <div className="container">
             <div className="row">
-              <div className="col-sm-4">
-                <p>QuIPS Platform<br/>Paul Albrechtsen Research Institute CCMB<br/>ON6015 - 675 McDermot Avenue<br/>Winnipeg, Manitoba<br/>R3E 0V9, Canada<br/><br/>Tele: 204-787-2844​</p>
+              <div className="col-sm-4 mt-3">
+                <p>QuIPS Platform<br/><br/>Paul Albrechtsen Research Institute CCMB<br/>ON6015 - 675 McDermot Avenue<br/>Winnipeg, Manitoba<br/>R3E 0V9, Canada<br/><br/>Tele: 204-787-2844​</p>
               </div>
               <div className="col-sm-3"></div>
-              <div className="col-sm-5 ms-auto">
+              <div className="col-sm-5 ms-auto mt-3">
                 <img src="/paulA.png" className="img-fluid" style={{width: "57%"}}></img>
                 <img src="/cancercare.png" className="img-fluid" style={{width: "43%"}}></img>
-                <p className="mt-2">We acknowledge the generous donation from the Paul Albrechtson Foundation for the purchase of the platform, as well as the ongoing support from Manitobans through their kind donations through the CancerCare Manitoba Foundation.</p>
+                <p className="mt-3">We acknowledge the generous donation from the Paul Albrechtson Foundation for the purchase of the platform, as well as the ongoing support from Manitobans through their kind donations through the CancerCare Manitoba Foundation.</p>
               </div>
             </div>
           </div>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"></script>
+        <script src="imageMapResizer.min.js"></script>
       </body>
     </html>
   )

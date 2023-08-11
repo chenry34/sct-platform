@@ -1,10 +1,13 @@
 export default function contact() {
   return ( 
     <>
-      <div className="container">
-        <div className="card mb-3" style={{border: "none"}}>
+      <div>
+        <img className="mt-0" src="/contact-background.jpg" style={{position: "absolute", height: "30vh", width: "100%", opacity: "1.0"}} />
+      </div>
+      <div className="container mt-5">
+        <div className="card mb-3 mt-3" style={{border: "none"}}>
           <div className="d-flex justify-content-center">
-            <h1 className="center mt-3 mb-3">Contact Us</h1>
+            <h1 className="center mt-3 mb-3" style={{opacity: "1.0"}}>Contact Us</h1>    
           </div>
           <div className="card bg-light" style={{marginRight: "5%", marginLeft: "5%", border: "none"}}>
             <div className="card-body">
