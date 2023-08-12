@@ -1,9 +1,9 @@
+import TechnologyHeader from "@/components/TechnologyHeader"
+
 export default function pricing() {
   return (
     <>
-      <div className="container">
-        pricing
-      </div>
+      <TechnologyHeader title="Fluorescent Activated Cell Sorting" page="pricing" technology="fluorescent-activated-cell-sorting"></TechnologyHeader>
     </>
   )
 }

@@ -2,7 +2,7 @@ export default function contact() {
   return ( 
     <>
       <div>
-        <img className="mt-0" src="/contact-background.jpg" style={{position: "absolute", height: "30vh", width: "100%", opacity: "1.0"}} />
+        <img className="mt-0" src="/contact-background.jpg" style={{position: "absolute", height: "30vh", minWidth: "100%", opacity: "1.0"}} />
       </div>
       <div className="container mt-5">
         <div className="card mb-3 mt-3" style={{border: "none"}}>

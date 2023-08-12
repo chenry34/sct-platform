@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <img className="mt-0" src="/home-background.png" style={{position: "absolute", height: "25vh", width: "100%", opacity: "1.0", zIndex: "-10"}} />
+        <img className="mt-0" src="/home-background.png" style={{position: "absolute", height: "25vh", minWidth: "100%", opacity: "1.0", zIndex: "-10"}} />
       </div>
       <div className="container mb-5">
         <div className="row justify-content-center mt-3 mb-2">

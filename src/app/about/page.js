@@ -2,7 +2,7 @@ export default function home() {
   return ( 
     <>
       <div>
-        <img className="mt-0" src="/about-background.png" style={{position: "absolute", height: "30vh", width: "100%", opacity: "1.0"}} />
+        <img className="mt-0" src="/about-background.png" style={{position: "absolute", height: "30vh", minWidth: "100%", opacity: "1.0"}} />
       </div>
       <div className="container mt-5">
         <div className="card mb-3" style={{marginRight: "10%", marginLeft: "10%", border: "none"}}>
