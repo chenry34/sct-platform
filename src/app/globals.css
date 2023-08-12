@@ -17,3 +17,7 @@ hr {
 html {
   font-family: Avenir;
 }
+
+p {
+  text-align: justify;
+}

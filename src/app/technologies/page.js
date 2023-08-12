@@ -11,8 +11,8 @@ export default function members() {
               title="Fluorescence Activated Cell Sorting"
               subTitle="BD FACSMelody​"
               subTitle2=" "
-              image="/BD-FACSMelody.png"
-              url="/technologies/fluorescent-activated-cell-sorting/overview"
+              image="/facs.png"
+              url="/technologies/fluorescent-activated-cell-sorting"
             >
             </TechnologyCard>
           </div>
@@ -22,7 +22,7 @@ export default function members() {
               subTitle="ChromiumX"
               subTitle2="Chromium Connect"
               image="/ChromiumX.png"
-              url="/technologies/transcriptomics/overview"
+              url="/technologies/transcriptomics"
             >
             </TechnologyCard>
           </div>
@@ -34,7 +34,7 @@ export default function members() {
               subTitle="Akoya PhenoCycler-Fusion ​"
               subTitle2=" "
               image="/phenocycler.webp"
-              url="/technologies/spatial-biology/overview"
+              url="/technologies/spatial-biology"
             >
             </TechnologyCard>
           </div>
@@ -43,8 +43,8 @@ export default function members() {
               title="Highthroughput & Multiplexed Imaging"
               subTitle="ImageXpress Confocal HT.ai "
               subTitle2=" "
-              image="/imageexpress.png"
-              url="/technologies/highthroughput-imaging/overview"
+              image="/imx.png"
+              url="/technologies/highthroughput-imaging"
             >
             </TechnologyCard>
           </div>
@@ -56,7 +56,7 @@ export default function members() {
               subTitle="Jess - Chemiluminescent & Fluorescent Western Blotting​"
               subTitle2=" "
               image="/jess.jpg"
-              url="/technologies/protein-quantification/overview"
+              url="/technologies/protein-quantification"
             >
             </TechnologyCard>
           </div>
@@ -67,7 +67,7 @@ export default function members() {
               subTitle2="CRISPR Multiplexing"
               subTitle3="CRISPR Screening"
               image="/crisper.png"
-              url="/technologies/modeling-and-screening/overview"
+              url="/technologies/modeling-and-screening"
             >
             </TechnologyCard>
           </div>

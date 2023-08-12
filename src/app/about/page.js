@@ -2,7 +2,7 @@ export default function home() {
   return ( 
     <>
       <div>
-        <img className="mt-0" src="/about-background.jpg" style={{position: "absolute", height: "30vh", width: "100%", opacity: "1.0"}} />
+        <img className="mt-0" src="/about-background.png" style={{position: "absolute", height: "30vh", width: "100%", opacity: "1.0"}} />
       </div>
       <div className="container mt-5">
         <div className="card mb-3" style={{marginRight: "10%", marginLeft: "10%", border: "none"}}>
@@ -11,13 +11,13 @@ export default function home() {
           </div>
 
           <div className="row">
-            <div className="col ms-3 me-3 mb-3" >
-              <p>Our platform provides a comprehensive set of services to suit your research needs. We harness and apply leading-edge technologies in cell isolation, single cell sequencing library preparation, high-throughput multiplex imaging, spatial biology and gene editing. Please reach out to us to learn more about how we can assist you in enabling, optimizing, accelerating your research projects.</p>
+            <div className="col ms-4 me-4 mb-3" >
+              <p>Our platform provides a comprehensive set of services to suit your research needs. We harness and apply leading-edge technologies in cell isolation, single cell sequencing library preparation, high-throughput multiplex imaging, spatial biology and gene editing. Please reach out to us to learn more about how we can assist you in enabling, optimizing, accelerating your research.</p>
             </div>
           </div>
         </div>
 
-        <div className="row mt-3 mb-5">
+        <div className="row mt-5 mb-5">
           <div className="d-flex justify-content-center pt-3 pb-3">
             <hr style={{marginTop: "2.5em"}}></hr>
             <div className="bg-light d-flex justify-content-center pt-3 pb-3" style={{width: "20em", position:"absolute", opacity: "1.0"}}><h1>The Team</h1></div>
@@ -83,7 +83,7 @@ export default function home() {
             </div>
           </div>
           <div className="row m-0">
-            <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
+            {/* <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
               <div className="card m-0" style={{width: "100%", border: "none"}}>
                 <img src="/BD-FACSMelody.png" className="img-fluid"></img>
                 <div className="card-body">
@@ -109,7 +109,7 @@ export default function home() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
               <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
                 <img src="/BD-FACSMelody.png" className="img-fluid"></img>

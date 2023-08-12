@@ -7,7 +7,7 @@ export default function contact() {
       <div className="container mt-5">
         <div className="card mb-3 mt-3" style={{border: "none"}}>
           <div className="d-flex justify-content-center">
-            <h1 className="center mt-3 mb-3" style={{opacity: "1.0"}}>Contact Us</h1>    
+            <h1 className="center mt-4 mb-3" style={{opacity: "1.0"}}>Contact Us</h1>    
           </div>
           <div className="card bg-light" style={{marginRight: "5%", marginLeft: "5%", border: "none"}}>
             <div className="card-body">
@@ -16,15 +16,12 @@ export default function contact() {
                 <div className="col-sm-3 mt-3">
                   <strong>Location:</strong>
                 </div>
-                <div className="col-sm-3 mt-3">
+                <div className="col-sm-5 mt-3">
                   <p>
-                    QuIPS Platform
-                    <br />
-                    <br/>
                     Paul Albrechtsen Research Institute CCMB
                     <br />
                     <br />
-                    ON6015 - 675 McDermot Avenue
+                    ON6015A - 675 McDermot Avenue
                     <br/>
                     Winnipeg, Manitoba
                     <br/>
