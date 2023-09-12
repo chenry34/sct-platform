@@ -54,10 +54,10 @@ export default function RootLayout({ children }) {
         <footer  className="mt-auto text-center text-lg-start bg-light text-muted">
           <div className="container">
             <div className="row">
-              <div className="col-sm-4 mt-3">
-                <p>QuIPS Platform<br/><br/>Paul Albrechtsen Research Institute CCMB<br/>ON6015 - 675 McDermot Avenue<br/>Winnipeg, Manitoba<br/>R3E 0V9, Canada<br/><br/>Tele: 204-787-2844​</p>
+              <div className="col-sm-6 mt-3">
+                <p>QuIPS Platform<br/><br/>Paul Albrechtsen Research Institute CCMB<br/>ON6015 - 675 McDermot Avenue<br/>Winnipeg, Manitoba<br/>R3E 0V9, Canada<br/>Phone: 204-787-2844​</p>
               </div>
-              <div className="col-sm-3"></div>
+              <div className="col-sm-1"></div>
               <div className="col-sm-5 ms-auto mt-3">
                 <img src="/paulA.png" className="img-fluid" style={{width: "57%"}}></img>
                 <img src="/cancercare.png" className="img-fluid" style={{width: "43%"}}></img>

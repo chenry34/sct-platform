@@ -1,9 +1,9 @@
+import TechnologyHeader from "@/components/TechnologyHeader"
+
 export default function specifications() {
   return (
     <>
-      <div className="container">
-        specifications
-      </div>
+      <TechnologyHeader title="Highthroughput and Multiplexed Imaging" page="specifications" technology={"highthroughput-imaging"}></TechnologyHeader>
     </>
   )
 }

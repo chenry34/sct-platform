@@ -1,9 +1,9 @@
+import TechnologyHeader from "@/components/TechnologyHeader"
+
 export default function specifications() {
   return (
     <>
-      <div className="container">
-        specifications
-      </div>
+      <TechnologyHeader title="Transcriptomics" page="specifications" technology="transcriptomics"></TechnologyHeader>
     </>
   )
 }

@@ -33,22 +33,22 @@ export default function home() {
                 <div className="card-body">
                   <div className="row mt-3">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h3 class="card-title">Arshani Alukumbura</h3>
+                      <h3 className="card-title">Arshani Alukumbura</h3>
                     </div>
                   </div>
                   <div className="row">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h6 class="card-title">QuIPS Platform Technician</h6>
+                      <h6 className="card-title">QuIPS Platform Technician</h6>
                     </div>
                   </div>
                   <div className="row">
                     <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
-                      <p class="card-text me-3">Arshani specializes in cell sorting and single-cell sequencing library preparation techniques. She received her MSc in Plant Science from the University of Manitoba, where she studied about plant microbiome diversity and genetic interactions of plants and plant pathogens. Before joining QuIPS, Arshani worked as a Research Technician at the University of Manitoba and involved in transcriptomics, proteomics and plant tissue culture research projects. Currently, Arshani uses her expertise to assist researchers in advancing their projects through training and assistance primarily on BD FACS Melody, ChromiumX and Chromium Connect instruments. ​</p>
+                      <p className="card-text me-3">Arshani specializes in cell sorting and single-cell sequencing library preparation techniques. She received her MSc in Plant Science from the University of Manitoba, where she studied about plant microbiome diversity and genetic interactions of plants and plant pathogens. Before joining QuIPS, Arshani worked as a Research Technician at the University of Manitoba and involved in transcriptomics, proteomics and plant tissue culture research projects. Currently, Arshani uses her expertise to assist researchers in advancing their projects through training and assistance primarily on BD FACS Melody, ChromiumX and Chromium Connect instruments. ​</p>
                     </div>
                   </div>
                   <div className="row">
                     <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                      <p class="card-text me-3">arshani.alukumbura@umanitoba.ca​</p>
+                      <p className="card-text me-3">arshani.alukumbura@umanitoba.ca​</p>
                     </div>
                   </div>
                 </div>
@@ -60,12 +60,12 @@ export default function home() {
                 <div className="card-body" style={{alignItems: "center"}}>
                   <div className="row mt-3">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h3 class="card-title">Nicole Neudorf</h3>
+                      <h3 className="card-title">Nicole Neudorf</h3>
                     </div>
                   </div>
                   <div className="row">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h6 class="card-title">QuIPS Platform Technician</h6>
+                      <h6 className="card-title">QuIPS Platform Technician</h6>
                     </div>
                   </div>
                   <div className="row">
@@ -75,7 +75,7 @@ export default function home() {
                   </div>
                   <div className="row">
                     <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                      <p class="card-text me-3">nicole.neudorf@umanitoba.ca​</p>
+                      <p className="card-text me-3">nicole.neudorf@umanitoba.ca​</p>
                     </div>
                   </div>
                 </div>
@@ -116,12 +116,12 @@ export default function home() {
                 <div className="card-body" style={{alignItems: "center"}}>
                   <div className="row mt-3">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h3 class="card-title">Dr. Kirk McManus</h3>
+                      <h3 className="card-title">Dr. Kirk McManus</h3>
                     </div>
                   </div>
                   <div className="row">
                     <div className='col-sm-12 d-flex justify-content-center'>
-                      <h6 class="card-title">Director</h6>
+                      <h6 className="card-title">Director</h6>
                     </div>
                   </div>
                   <div className="row">
@@ -131,7 +131,7 @@ export default function home() {
                   </div>
                   <div className="row">
                     <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                      <p class="card-text me-3">kirk.mcmanus@umanitoba.ca​</p>
+                      <p className="card-text me-3">kirk.mcmanus@umanitoba.ca​</p>
                     </div>
                   </div>
                 </div>

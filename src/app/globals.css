@@ -14,8 +14,9 @@ hr {
   justify-content: flex-end;
 }
 
-html {
+html, body {
   font-family: Avenir;
+  margin: 0;
 }
 
 p {

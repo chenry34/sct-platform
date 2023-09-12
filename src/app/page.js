@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <img className="mt-0" src="/home-background.png" style={{position: "absolute", height: "25vh", minWidth: "100%", opacity: "1.0", zIndex: "-10"}} />
+        <img className="mt-0" src="/home-background.png" style={{position: "absolute", height: "20vh", maxWidth: "100%", width: "100%", opacity: "1.0", zIndex: "-10"}} />
       </div>
       <div className="container mb-5">
         <div className="row justify-content-center mt-3 mb-2">
@@ -14,7 +14,7 @@ export default function Home() {
           </div>
         </div>
         <div className="container d-flex justify-content-center mt-5">
-          <img id="image" className="img-fluid" src="/CircleMenu/Slide1.jpg" useMap="#image-map"/>
+          <img className="img-fluid" src="/CircleMenu/Slide1.jpg"/>
           {/* <map id="image-map" name="image-map">
             <area target="_blank" alt="Modeling and Screening" title="Modeling and Screening" href="/technologies/modeling-and-screening" coords="239,28,414,176" shape="rect" />
             <area target="" alt="Cell Sorting" title="Cell Sorting" href="/technologies/cell-sorting" coords="467,158,641,305" shape="rect" />
