@@ -51,7 +51,8 @@ export default function RootLayout({ children }) {
           </div>
         </div>
         {children}
-        <footer  className="mt-auto text-center text-lg-start bg-light text-muted">
+        <img className="mt-auto" src="/bottom-banner.png" style={{width: "100%"}}></img>
+        <footer  className="text-center text-lg-start bg-light text-muted">
           <div className="container">
             <div className="row">
               <div className="col-sm-6 mt-3">

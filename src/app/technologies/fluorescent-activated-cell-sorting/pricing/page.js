@@ -5,7 +5,7 @@ export default function pricing() {
     <>
       <TechnologyHeader title="Fluorescence Activated Cell Sorting" page="pricing" technology="fluorescent-activated-cell-sorting"></TechnologyHeader>
       <div className="container">
-      <table align="center" className="mt-4 table table-borderless table-responsive">
+      <table align="center" className="mt-4 table table-responsive">
           <thead>
             <tr>
               <th></th>
@@ -37,6 +37,7 @@ export default function pricing() {
             <tr>
               <td>Cancellation Fee<sup>3</sup></td>
               <td>$55</td>
+              <td></td>
             </tr>
           </tbody>
         </table>
