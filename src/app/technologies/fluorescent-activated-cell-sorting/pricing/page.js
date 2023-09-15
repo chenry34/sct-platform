@@ -8,7 +8,7 @@ export default function pricing() {
       <table align="center" className="mt-4 table table-responsive">
           <thead>
             <tr>
-              <th></th>
+              <th><strong>Fee-for-service</strong></th>
               <th>First 40 hours</th>
               <th>After 40 hours</th>
             </tr>

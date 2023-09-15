@@ -24,63 +24,7 @@ export default function home() {
         </div>
         <div>
           <div className="container mb-3">
-            <div className="row m-0">
-              <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch" style={{backgroundColor: "#d1d9d3"}}>
-                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
-                  <img src="/BD-FACSMelody.png" className="img-fluid"></img>
-                  <div className="card-body">
-                    <div className="row mt-3">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h3 className="card-title">Arshani Alukumbura</h3>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h6 className="card-title">QuIPS Platform Technician</h6>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text me-3">Arshani specializes in cell sorting and single-cell sequencing library preparation techniques. She received her MSc in Plant Science from the University of Manitoba, where she studied about plant microbiome diversity and genetic interactions of plants and plant pathogens. Before joining QuIPS, Arshani worked as a Research Technician at the University of Manitoba and involved in transcriptomics, proteomics and plant tissue culture research projects. Currently, Arshani uses her expertise to assist researchers in advancing their projects through training and assistance primarily on BD FACS Melody, ChromiumX and Chromium Connect instruments. ​</p>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text me-3">arshani.alukumbura@umanitoba.ca​</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
-                <div className="card m-0" style={{width: "100%", border: "none"}}>
-                  <img src="/BD-FACSMelody.png" className="img-fluid"></img>
-                  <div className="card-body" style={{alignItems: "center"}}>
-                    <div className="row mt-3">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h3 className="card-title">Nicole Neudorf</h3>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h6 className="card-title">QuIPS Platform Technician</h6>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text me-3">Nicole specializes in quantitative imaging microscopy techniques that enable high-throughput and multiplexed imaging and novel discoveries in spatial biology. Before joining QuIPS, Nicole earned her MSc in Biochemistry and Medical Genetics at the University of Manitoba, where she employed quantitative imaging microscopy approaches to study genetic drivers of chromosome instability in cancer. Since joining QuIPS, Nicole has used her experience in quantitative imaging microscopy to enable other researchers to gain novel insight of their disease of interest at the single-cell level using the ImageXpress HT.ai and PhenoCycler-Fusion.​</p>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text me-3">nicole.neudorf@umanitoba.ca​</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="row m-0">
+          <div className="row m-0">
               {/* <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
                 <div className="card m-0" style={{width: "100%", border: "none"}}>
                   <img src="/BD-FACSMelody.png" className="img-fluid"></img>
@@ -108,9 +52,10 @@ export default function home() {
                   </div>
                 </div>
               </div> */}
-              <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
-                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
-                  <img src="/BD-FACSMelody.png" className="img-fluid"></img>
+              <div className="col-xl-3"></div>
+              <div className="col-xl-6 m-0 p-0 d-flex text-center">
+                <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3"}}>
+                  <img src="/thumbnail_Kirk_McManus.jpg" className="img-fluid"></img>
                   <div className="card-body" style={{alignItems: "center"}}>
                     <div className="row mt-3">
                       <div className='col-sm-12 d-flex justify-content-center'>
@@ -130,6 +75,62 @@ export default function home() {
                     <div className="row">
                       <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
                         <p className="card-text me-3">kirk.mcmanus@umanitoba.ca​</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row m-0">
+              <div className="col-xl-6 m-0 p-0 d-flex align-items-stretch" style={{backgroundColor: "#d1d9d3"}}>
+                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
+                  <img src="/thumbnail_Arshani_Alukumbura.jpg" className="img-fluid"></img>
+                  <div className="card-body">
+                    <div className="row mt-3">
+                      <div className='col-sm-12 d-flex justify-content-center'>
+                        <h3 className="card-title">Arshani Alukumbura</h3>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='col-sm-12 d-flex justify-content-center'>
+                        <h6 className="card-title">QuIPS Platform Technician</h6>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">Arshani specializes in cell sorting and single-cell sequencing library preparation techniques. She received her MSc in Plant Science from the University of Manitoba, where she studied about plant microbiome diversity and genetic interactions of plants and plant pathogens. Before joining QuIPS, Arshani worked as a Research Technician at the University of Manitoba and involved in transcriptomics, proteomics and plant tissue culture research projects. Currently, Arshani uses her expertise to assist researchers in advancing their projects through training and assistance primarily on BD FACS Melody, ChromiumX and Chromium Connect instruments. ​</p>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">arshani.alukumbura@umanitoba.ca​</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-xl-6 m-0 p-0 d-flex align-items-stretch">
+                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
+                  <img src="/thumbnail_Nicole_Neudorf.jpg" className="img-fluid"></img>
+                  <div className="card-body" style={{alignItems: "center"}}>
+                    <div className="row mt-3">
+                      <div className='col-sm-12 d-flex justify-content-center'>
+                        <h3 className="card-title">Nicole Neudorf</h3>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='col-sm-12 d-flex justify-content-center'>
+                        <h6 className="card-title">QuIPS Platform Technician</h6>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">Nicole specializes in quantitative imaging microscopy techniques that enable high-throughput and multiplexed imaging and novel discoveries in spatial biology. Before joining QuIPS, Nicole earned her MSc in Biochemistry and Medical Genetics at the University of Manitoba, where she employed quantitative imaging microscopy approaches to study genetic drivers of chromosome instability in cancer. Since joining QuIPS, Nicole has used her experience in quantitative imaging microscopy to enable other researchers to gain novel insight of their disease of interest at the single-cell level using the ImageXpress HT.ai and PhenoCycler-Fusion.​</p>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">nicole.neudorf@umanitoba.ca​</p>
                       </div>
                     </div>
                   </div>

@@ -53,9 +53,9 @@ export default function members() {
           <div className="col-lg-6 d-flex align-items-stretch">
             <TechnologyCard
               title="Protein Quantification"
-              subTitle="Jess - Chemiluminescent & Fluorescent Western Blotting​"
+              subTitle="Bio-techne Jess​"
               subTitle2=" "
-              image="/jess.jpg"
+              image="/jess2.png"
               url="/technologies/protein-quantification"
             >
             </TechnologyCard>

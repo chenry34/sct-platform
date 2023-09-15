@@ -32,9 +32,10 @@ export default function contact() {
                   <div className="col-sm-3 mt-3">
                     <strong>Email:</strong>
                   </div>
-                  <div className="col-sm-3 mt-3">
+                  <div className="col-sm-6 mt-3">
                     <p>
-                      example@example.com
+                      arshani.alukumbura@umanitoba.ca<br></br>
+                      nicole.neudorf@umanitoba.ca
                     </p>
                   </div>
                 </div>

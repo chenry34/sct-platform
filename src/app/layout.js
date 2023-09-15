@@ -62,7 +62,7 @@ export default function RootLayout({ children }) {
               <div className="col-sm-5 ms-auto mt-3">
                 <img src="/paulA.png" className="img-fluid" style={{width: "57%"}}></img>
                 <img src="/cancercare.png" className="img-fluid" style={{width: "43%"}}></img>
-                <p className="mt-3">We acknowledge the generous donation from the Paul Albrechtson Foundation for the purchase of the platform, as well as the ongoing support from Manitobans through their kind donations through the CancerCare Manitoba Foundation.</p>
+                <p className="mt-3">We acknowledge the generous donation from the Paul Albrechtson Foundation for the purchase of the platform, as well as the ongoing support from Manitobans through their kind donations to the CancerCare Manitoba Foundation.</p>
               </div>
             </div>
           </div>

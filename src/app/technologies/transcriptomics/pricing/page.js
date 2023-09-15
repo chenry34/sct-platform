@@ -5,7 +5,7 @@ export default function pricing() {
     <>
       <TechnologyHeader title="Transcriptomics" page="pricing" technology="transcriptomics"></TechnologyHeader>
       <div className="container">
-        <table align="center" className="mt-4 table table-borderless table-responsive">
+        <table align="center" className="mt-4 table table-responsive">
           <thead>
             <tr>
               <th></th>
@@ -16,7 +16,7 @@ export default function pricing() {
           </thead>
           <tbody>
             <tr>
-              <td rowSpan={4}><strong>Fee-for-service</strong></td>
+              <td rowSpan={3}><strong>Fee-for-service</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$65/run</td>
               <td>$100/run</td>
@@ -31,9 +31,8 @@ export default function pricing() {
               <td>$130/run</td>
               <td>$200/run</td>
             </tr>
-            <tr><td></td><td></td><td></td></tr>
             <tr>
-              <td rowSpan={4}><strong>Training</strong></td>
+              <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$55/hour</td>
               <td></td>
@@ -48,9 +47,8 @@ export default function pricing() {
               <td>$110/hour</td>
               <td></td>
             </tr>
-            <tr><td></td><td></td><td></td></tr>
             <tr>
-              <td rowSpan={4}><strong>User</strong></td>
+              <td rowSpan={3}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$45/run</td>
               <td></td>
