@@ -50,10 +50,10 @@ export default function pricing() {
           </tbody>
         </table>
         <h4 className="mt-3"><u>PhenoCycler-Fusion:</u></h4>
-        <table align="center" className="mt-4 table table-borderless table-responsive">
+        <table align="center" className="mt-4 table table-responsive">
           <tbody>
             <tr>
-              <td width="33%" rowSpan={4}><strong>Fee-for-service</strong></td>
+              <td width="33%" rowSpan={3}><strong>Fee-for-service</strong></td>
               <td width="33%">PARI Member<sup>1</sup></td>
               <td width="33%">$150/experiment</td>
             </tr>
@@ -65,9 +65,8 @@ export default function pricing() {
               <td>Industry</td>
               <td>$300/experiment</td>
             </tr>
-            <tr><td></td><td></td></tr>
             <tr>
-              <td rowSpan={4}><strong>Training</strong></td>
+              <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$30/hour</td>
             </tr>
@@ -79,7 +78,6 @@ export default function pricing() {
               <td>Industry</td>
               <td>$60/hour</td>
             </tr>
-            <tr><td></td><td></td></tr>
             <tr>
               <td rowSpan={3}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>

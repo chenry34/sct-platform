@@ -69,8 +69,8 @@ export default function home() {
                     </div>
                     <div className="row">
                       <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text me-3">Dr. McManus is a Senior Scientist at the Paul Albrechtsen Research Institute CCMB and a Professor in the Department of Biochemistry and Medical Genetics at the University of Manitoba. He received his Ph.D. in Oncology from the Cross Cancer Institute, University of Alberta and got his post-doctoral training from the University of British Columbia. Dr. McManus’s research focus is on identifying and characterizing genes that regulate chromosome stability in a cancer context and exploiting these characteristics to identify novel therapeutic targets. .......................​</p>
-                      </div>
+                        <p className="card-text me-3">Dr. McManus is a Senior Scientist at the Paul Albrechtsen Research Institute CCMB and a Professor in the Department of Biochemistry and Medical Genetics at the University of Manitoba. He received his Ph.D. in Oncology from the Cross Cancer Institute, University of Alberta and got his post-doctoral training from the University of British Columbia. Dr. McManus’s research focus is on identifying and characterizing genes that regulate chromosome stability in a cancer context and exploiting these characteristics to identify novel therapeutic targets.  Dr. McManus is passionate about advancing our understanding of disease development and progression by characterizing disease phenotypes at the single-cell level and was instrumental in developing and launching the QuIPS platform.</p>
+                        </div>
                     </div>
                     <div className="row">
                       <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
