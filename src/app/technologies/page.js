@@ -19,7 +19,7 @@ export default function members() {
           <div className="col-lg-6 d-flex align-items-stretch">
             <TechnologyCard
               title="Transcriptomics"
-              subTitle="ChromiumX"
+              subTitle="Chromium X"
               subTitle2="Chromium Connect"
               image="/ChromiumX.png"
               url="/technologies/transcriptomics"

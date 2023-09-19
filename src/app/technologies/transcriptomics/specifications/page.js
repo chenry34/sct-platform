@@ -21,6 +21,43 @@ export default function specifications() {
             </p>
           </div>
         </div>
+        <table className="mt-4 table table-bordered table-responsive">
+          <thead>
+            <tr>
+              <th><strong>Compatible Assays</strong></th>
+              <th><strong>Chromium X</strong></th>
+              <th><strong>Chromium Connect</strong></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Single Cell Gene Expression</td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+            </tr>
+            <tr>
+              <td>Single Cell Immune Profiling</td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+            </tr>
+            <tr>
+              <td>Single Cell ATAC<sup>1</sup> Sequencing</td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Cell Surface Protein Screening</td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Single Cell CRISPR Screening</td>
+              <td align="center"><span style={{fontSize: "24px"}}><strong>&#10003;</strong></span></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+        <p className="mt-1 mb-3" style={{fontSize: "14px"}}><sup>1</sup>Assay for Transposase-Accessible Chromatin</p>
       </div>
     </>
   )

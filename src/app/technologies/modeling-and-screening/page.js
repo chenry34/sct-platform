@@ -3,7 +3,9 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function overview() {
   return (
     <>
-      <TechnologyHeader title="Modeling and Screening" page="overview" technology="modeling-and-screening"></TechnologyHeader>
+      <div className="container">
+        <p className="mt-3 mb-3" style={{fontSize: "40px"}}>Coming Soon!</p>
+      </div>
     </>
   )
 }
