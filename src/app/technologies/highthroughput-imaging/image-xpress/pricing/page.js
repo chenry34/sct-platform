@@ -3,12 +3,12 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function pricing() {
   return (
     <>
-      <TechnologyHeader title="Highthroughput and Multiplexed Imaging" page="pricing" technology={"highthroughput-imaging"}></TechnologyHeader>
+    <TechnologyHeader title="ImageXpress" page="pricing" technology="/highthroughput-imaging/image-xpress"></TechnologyHeader>
       <div className="container">
-        <table align="center" className="mt-4 table table-borderless table-responsive">
+        <table align="center" className="mt-4 table table-responsive">
           <tbody>
             <tr>
-              <td rowSpan={4}><strong>Fee-for-service</strong></td>
+              <td rowSpan={3}><strong>Fee-for-service</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$25/hour</td>
             </tr>
@@ -20,9 +20,8 @@ export default function pricing() {
               <td>Industry</td>
               <td>$50/hour</td>
             </tr>
-            <tr><td></td><td></td></tr>
             <tr>
-              <td rowSpan={4}><strong>Training</strong></td>
+              <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$30/hour</td>
             </tr>
@@ -34,7 +33,6 @@ export default function pricing() {
               <td>Industry</td>
               <td>$60/hour</td>
             </tr>
-            <tr><td></td><td></td></tr>
             <tr>
               <td rowSpan={4}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>
