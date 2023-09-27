@@ -81,7 +81,7 @@ export default function specifications() {
         <h6 className="mt-3"><strong>High-Throughput Analyses:</strong></h6>
         <ul className="mb-3">
           <li>Live cell plate reading/imaging is enabled using the PreciseFlex 400 Robotic Arm. Barcoded/non-barcoded plates are placed in the LiCONiC BCX Incubator (holds up to 40 plates) for automated plate reading/imaging.</li>
-          <li>Endpoint/Fixed imaging is enabled using the PreciseFlex 400 Robotic Arm. Barcoded/non-barcoded plates are placed in the plate hotels (4 ´ 20 plates) for automated plate reading/imaging.</li>
+          <li>Endpoint/Fixed imaging is enabled using the PreciseFlex 400 Robotic Arm. Barcoded/non-barcoded plates are placed in the plate hotels (4 x 20 plates) for automated plate reading/imaging.</li>
         </ul>
       </div>
     </>

@@ -102,6 +102,11 @@ export default function home() {
                       </div>
                     </div>
                     <div className="row">
+                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">To enquire about the FACSMelody, Chromium X or Chromium Connect, please contact Arshani​.</p>
+                      </div>
+                    </div>
+                    <div className="row">
                       <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
                         <p className="card-text me-3">arshani.alukumbura@umanitoba.ca​</p>
                       </div>
@@ -126,6 +131,11 @@ export default function home() {
                     <div className="row">
                       <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
                         <p className="card-text me-3">Nicole specializes in quantitative imaging microscopy techniques that enable high-throughput and multiplexed imaging and novel discoveries in spatial biology. Before joining QuIPS, Nicole earned her MSc in Biochemistry and Medical Genetics at the University of Manitoba, where she employed quantitative imaging microscopy approaches to study genetic drivers of chromosome instability in cancer. Since joining QuIPS, Nicole has used her experience in quantitative imaging microscopy to enable other researchers to gain novel insight of their disease of interest at the single-cell level using the ImageXpress HT.ai and PhenoCycler-Fusion.​</p>
+                      </div>
+                    </div>
+                    <div className="row">
+                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
+                        <p className="card-text me-3">To enquire about the PhenoCycler-Fusion, Molecular Devices Imaging Suite or Protein Jess, please contact Nicole.</p>
                       </div>
                     </div>
                     <div className="row">
