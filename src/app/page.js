@@ -7,7 +7,7 @@ export default function Home() {
         <div className="container mb-5">
           <div className="row justify-content-center mt-3">
             <div className="col-lg-9">
-              <div className="card mt-3 p-3" style={{border: "none", fontSize: "20px"}}>
+              <div className="card mt-3 p-3" style={{border: "none", fontSize: "19px"}}>
                 <p className="m-3">Our platform provides leading-edge technological services for researchers within the Paul Albrechtsen Research Institute CancerCare Manitoba, the University of Manitoba, external academic institutes, and industrial partners.</p>
               </div> 
             </div>
