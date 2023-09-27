@@ -15,7 +15,7 @@ hr {
 }
 
 html, body {
-  font-family: Avenir;
+  font-family: Arial !important;
   margin: 0;
 }
 
