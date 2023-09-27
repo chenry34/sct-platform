@@ -45,12 +45,12 @@ export default function specifications() {
               <td>624/40nm</td>
             </tr>
             <tr>
-              <td style={{backgroundColor: "#5d1f1f", color: "white"}}>Cyanine-5 (Cy5)</td>
+              <td style={{backgroundColor: "#820a0a", color: "white"}}>Cyanine-5 (Cy5)</td>
               <td>638/17nm</td>
               <td>692/40nm</td>
             </tr>
             <tr>
-              <td style={{backgroundColor: "#c3602d", color: "white"}}>Cyanine-7 (Cy7)</td>
+              <td style={{backgroundColor: "#4a0404", color: "white"}}>Cyanine-7 (Cy7)</td>
               <td>725/30nm</td>
               <td>794/32nm</td>
             </tr>
