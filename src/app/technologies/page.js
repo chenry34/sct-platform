@@ -10,7 +10,7 @@ export default function members() {
             <TechnologyCard
               title="Fluorescence Activated Cell Sorting"
               subTitle="BD FACSMelody​"
-              subTitle2=" "
+              subTitle2="​ "
               image="/facs.png"
               url="/technologies/fluorescent-activated-cell-sorting"
             >
@@ -32,7 +32,7 @@ export default function members() {
             <TechnologyCard
               title="Spatial Biology"
               subTitle="Akoya PhenoCycler-Fusion ​"
-              subTitle2=" "
+              subTitle2="​ "
               image="/phenocycler.webp"
               url="/technologies/spatial-biology"
             >
@@ -42,7 +42,7 @@ export default function members() {
             <TechnologyCard
               title="Highthroughput & Multiplexed Imaging"
               subTitle="ImageXpress Confocal HT.ai "
-              subTitle2=" "
+              subTitle2="​ "
               image="/imx.png"
               url="/technologies/highthroughput-imaging"
             >
@@ -54,7 +54,7 @@ export default function members() {
             <TechnologyCard
               title="Protein Quantification"
               subTitle="Bio-techne Jess​"
-              subTitle2=" "
+              subTitle2="​ "
               image="/jess2.png"
               url="/technologies/protein-quantification"
             >
