@@ -52,9 +52,8 @@ export default function home() {
                   </div>
                 </div>
               </div> */}
-              <div className="col-xl-3"></div>
-              <div className="col-xl-6 m-0 p-0 d-flex text-center">
-                <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3"}}>
+              <div className="col-lg-4 m-0 p-0 d-flex text-center">
+                <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
                   <img src="/thumbnail_Kirk_McManus.jpg" className="img-fluid"></img>
                   <div className="card-body" style={{alignItems: "center"}}>
                     <div className="row mt-3">
@@ -80,10 +79,8 @@ export default function home() {
                   </div>
                 </div>
               </div>
-            </div>
-            <div className="row m-0">
-              <div className="col-xl-6 m-0 p-0 d-flex align-items-stretch" style={{backgroundColor: "#d1d9d3"}}>
-                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
+              <div className="col-lg-4 m-0 p-0 d-flex align-items-stretch" style={{backgroundColor: "#d1d9d3"}}>
+                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
                   <img src="/thumbnail_Arshani_Alukumbura.jpg" className="img-fluid"></img>
                   <div className="card-body">
                     <div className="row mt-3">
@@ -114,8 +111,8 @@ export default function home() {
                   </div>
                 </div>
               </div>
-              <div className="col-xl-6 m-0 p-0 d-flex align-items-stretch">
-                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3"}}>
+              <div className="col-lg-4 m-0 p-0 d-flex align-items-stretch">
+                <div className="card m-0" style={{width: "100%", border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
                   <img src="/thumbnail_Nicole_Neudorf.jpg" className="img-fluid"></img>
                   <div className="card-body" style={{alignItems: "center"}}>
                     <div className="row mt-3">
