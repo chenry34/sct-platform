@@ -41,8 +41,9 @@ export default function members() {
           <div className="col-lg-6 d-flex align-items-stretch">
             <TechnologyCard
               title="Highthroughput & Multiplexed Imaging"
-              subTitle="ImageXpress Confocal HT.ai "
-              subTitle2="​ "
+              subTitle="ImageXpress"
+              subTitle2="​SpectraMax® iD3"
+              subTitle3="IN Carta Image Analysis Software"
               image="/imx.png"
               url="/technologies/highthroughput-imaging"
             >
