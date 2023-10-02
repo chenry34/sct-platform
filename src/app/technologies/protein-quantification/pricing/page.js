@@ -48,6 +48,7 @@ export default function pricing() {
         <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
         <p className="mt-0 mb-0" style={{fontSize: "14px"}}><sup>2</sup>Beginning 30 mins after start of scheduled appointment</p>
         <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 3 hours of scheduled appointment</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}>*prices are subject to change</p>
       </div>
     </>
   )

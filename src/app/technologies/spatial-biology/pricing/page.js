@@ -5,9 +5,11 @@ export default function pricing() {
     <>
       <TechnologyHeader title="Spatial Biology" page="pricing" technology="spatial-biology"></TechnologyHeader>
       <div className="container">
-        <h4 className="mt-4"><u>PhenoImager Fusion:</u></h4>
         <table align="center" className="mt-4 table table-responsive">
           <tbody>
+            <tr align="center">
+              <th colSpan={3}><h4><strong>PhenoImager Fusion</strong></h4></th>
+            </tr>
             <tr>
               <td width="33%" rowSpan={3}><strong>Fee-for-service</strong></td>
               <td width="33%">PARI Member<sup>1</sup></td>
@@ -47,11 +49,23 @@ export default function pricing() {
               <td>Industry</td>
               <td>$30/hour</td>
             </tr>
+            <tr>
+              <td><strong>Late Fee<sup>2</sup></strong></td>
+              <td>$55/hour</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><strong>Cancellation Fee<sup>3</sup></strong></td>
+              <td>$55</td>
+              <td></td>
+            </tr>
           </tbody>
         </table>
-        <h4 className="mt-3"><u>PhenoCycler-Fusion:</u></h4>
         <table align="center" className="mt-4 table table-responsive">
           <tbody>
+            <tr align="center">
+              <th colSpan={3}><h4><strong>PhenoCycler-Fusion</strong></h4></th>
+            </tr>
             <tr>
               <td width="33%" rowSpan={3}><strong>Fee-for-service</strong></td>
               <td width="33%">PARI Member<sup>1</sup></td>
@@ -93,13 +107,20 @@ export default function pricing() {
             </tr>
             <tr>
               <td><strong>Late Fee<sup>2</sup></strong></td>
+              <td>$55/hour</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><strong>Cancellation Fee<sup>3</sup></strong></td>
               <td>$55</td>
               <td></td>
             </tr>
           </tbody>
         </table>
         <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
-        <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>2</sup>Defined as cancellation within 3 hours of appointment</p> 
+        <p className="mt-0 mb-0" style={{fontSize: "14px"}}><sup>2</sup>Beginning 30 mins after start of scheduled appointment</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 3 hours of scheduled appointment</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}>*prices are subject to change</p>
       </div>
     </>
   )

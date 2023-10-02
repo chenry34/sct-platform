@@ -34,7 +34,7 @@ export default function pricing() {
               <td>$60/hour</td>
             </tr>
             <tr>
-              <td rowSpan={4}><strong>User</strong></td>
+              <td rowSpan={3}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>
               <td>$15/hour</td>
             </tr>
@@ -46,9 +46,22 @@ export default function pricing() {
               <td>Industry</td>
               <td>$30/hour</td>
             </tr>
+            <tr>
+              <td><strong>Late Fee<sup>2</sup></strong></td>
+              <td>$55/hour</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><strong>Cancellation Fee<sup>3</sup></strong></td>
+              <td>$55</td>
+              <td></td>
+            </tr>
           </tbody>
         </table>
-        <p className="mt-3 mb-3" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
+        <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
+        <p className="mt-0 mb-0" style={{fontSize: "14px"}}><sup>2</sup>Beginning 30 mins after start of scheduled appointment</p> 
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 3 hours of scheduled appointment</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}>*prices are subject to change</p>
       </div>
     </>
   )
