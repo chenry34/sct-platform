@@ -1,5 +1,8 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faXTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { } from '@fortawesome/fontawesome-svg-core'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -55,11 +58,15 @@ export default function RootLayout({ children }) {
         <footer  className="text-center text-lg-start bg-light text-muted">
           <div className="container">
             <div className="row">
-              <div className="col-sm-6 mt-3">
+              <div className="col-lg-4 mt-3">
                 <p>QuIPS Platform<br/><br/>Paul Albrechtsen Research Institute CCMB<br/>ON6015 - 675 McDermot Avenue<br/>Winnipeg, Manitoba<br/>R3E 0V9, Canada<br/>Phone: 204-787-2844​</p>
               </div>
-              <div className="col-sm-1"></div>
-              <div className="col-sm-5 ms-auto mt-3">
+              <div className="col-lg-3 my-auto">
+                <a target="_blank" href="https://x.com/QuIPS_Platform" className="m-2" style={{color: "inherit", textDecorations:"none"}}><FontAwesomeIcon style={{height: "50px"}} icon={faXTwitter}/></a>
+                <a target="_blank" href="https://instagram.com/QuIPS_Platform" className="m-2" style={{color: "inherit", textDecorations:"none"}}><FontAwesomeIcon style={{height: "50px"}} icon={faInstagram} /></a>
+                <a target="_blank" href="https://www.linkedin.com/in/quips-platform-ba261b27a/" className="m-2" style={{color: "inherit", textDecorations:"none"}}><FontAwesomeIcon style={{height: "50px"}} icon={faLinkedin} /></a>
+              </div>
+              <div className="col-lg-5 ms-auto mt-3">
                 <img src="/paulA.png" className="img-fluid" style={{width: "57%"}}></img>
                 <img src="/cancercare.png" className="img-fluid" style={{width: "43%"}}></img>
                 <p className="mt-3">We acknowledge the generous donation from the Paul Albrechtson Foundation for the purchase of the platform, as well as the ongoing support from Manitobans through their kind donations to the CancerCare Manitoba Foundation.</p>
