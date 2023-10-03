@@ -1,9 +1,9 @@
 export default function home() {
   return ( 
     <>
-      <div style={{backgroundImage: `url('/about-background2.png')`, backgroundRepeat: "no-repeat", backgroundSize: "contain"}}>
+      <div className="bg-light" style={{backgroundImage: `url('/about-background2.png')`, backgroundRepeat: "no-repeat", backgroundSize: "contain"}}>
         <div className="container mt-5">
-          <div className="card mb-3" style={{marginRight: "10%", marginLeft: "10%", border: "none"}}>
+          <div className="card mb-3 bg-light" style={{marginRight: "5%", marginLeft: "5%", border: "none"}}>
             <div className="d-flex justify-content-center">
               <h1 className="mt-3 mb-3 mx-3" style={{textAlign: "center"}}>Our Research Platform</h1>
             </div>
@@ -18,40 +18,13 @@ export default function home() {
           <div className="row mt-5 mb-5">
             <div className="d-flex justify-content-center pt-3 pb-3">
               <hr style={{marginTop: "2.5em"}}></hr>
-              <div className="bg-light d-flex justify-content-center pt-3 pb-3" style={{width: "20em", position:"absolute", opacity: "1.0"}}><h1>The Team</h1></div>
+              <div className=" d-flex justify-content-center pt-3 pb-3" style={{backgroundColor: "#d1d9d3",width: "20em", position:"absolute", opacity: "1.0"}}><h1>The Team</h1></div>
             </div>
           </div>
         </div>
         <div>
           <div className="container mb-3">
-          <div className="row m-0">
-              {/* <div className="col-sm-6 m-0 p-0 d-flex align-items-stretch">
-                <div className="card m-0" style={{width: "100%", border: "none"}}>
-                  <img src="/BD-FACSMelody.png" className="img-fluid"></img>
-                  <div className="card-body">
-                    <div className="row mt-3">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h3 class="card-title">Kyle Valentino</h3>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h6 class="card-title">CRISPR Technician</h6>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 col-sm-12 d-flex justify-content-center'>
-                        <p class="card-text me-3">Kyle specializes in preparing a myriad of CRISPR reagents. CRISPR Cas9 and CRISPRi vectors, CRISPR multiplexing vectors, and CRISPR gRNA libraries. Before joining QuIPS, Kyle earned his HBSc at the University of Toronto, where he annually co-taught 4th year Genomics, and found/led the biotech company Future Biotech Canada. Since joining QuIPS, Kyle has been refining and expanding his CRISPR reagent repertoire to assist other researchers in answering their key laboratory questions, such as knocking out their select genes, and developing libraries to screen for genes of interest ​</p>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-4 ms-3 me-3 pb-3 col-sm-12 d-flex justify-content-center'>
-                        <p class="card-text me-3">kyle.valentino@umanitoba.ca​</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div> */}
+            <div className="row m-0">
               <div className="col-lg-4 m-0 p-0 d-flex text-center">
                 <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
                   <img src="/thumbnail_Kirk_McManus.jpg" className="img-fluid"></img>

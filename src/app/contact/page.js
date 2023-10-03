@@ -1,9 +1,9 @@
 export default function contact() {
   return ( 
     <>
-      <div style={{backgroundImage: `url('/contact-background.jpg')`, backgroundRepeat: "no-repeat", backgroundSize: "100%"}}>
+      <div className="bg-light" style={{backgroundImage: `url('/contact-background.jpg')`, backgroundRepeat: "no-repeat", backgroundSize: "100%"}}>
         <div className="container mt-5 ">
-          <div className="card mb-3 mt-3" style={{border: "none"}}>
+          <div className="card bg-light mb-3 mt-3" style={{border: "none"}}>
             <div className="d-flex justify-content-center">
               <h1 className="center mt-4 mb-3" style={{opacity: "1.0"}}>Contact Us</h1>    
             </div>
