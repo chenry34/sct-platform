@@ -13,7 +13,7 @@ export default function Home() {
             </div>
           </div>
           <div className="container d-flex justify-content-center mt-3">
-            <a href="/technologies"><img className="img-fluid" src="/wheel.png" style={{maxWidth: "900px", width: "100%"}} /></a>
+            <a href="/technologies"><img alt="Technologies" className="img-fluid" src="/wheel.png" style={{maxWidth: "900px", width: "100%"}} /></a>
           </div>
         </div>
       </div>
