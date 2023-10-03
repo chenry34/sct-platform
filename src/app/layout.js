@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         <nav className="pt-4 mb-0 navbar navbar-expand-sm navbar-light bg-light">
           <div className="container">
             <div className="navbar-brand">
-                <img className="img-fluid" src="/quips.png" href="/" style={{width: "18vh"}}/>
+                <a href="/"><img className="img-fluid" src="/quips.png" href="/" style={{width: "18vh"}}/></a>
             </div>
             <button className="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
