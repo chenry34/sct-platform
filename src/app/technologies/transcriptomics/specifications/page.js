@@ -15,9 +15,9 @@ export default function specifications() {
           </div>
           <div className="col-md-6 text-center">
             <h6><strong>Chromium Connect</strong></h6>
-            <img src="/ChromiumConnect.png" className="img-fluid rounded-start" style={{width: "80%"}}></img>
+            <img src="/ChromiumConnect.png" className="img-fluid rounded-start" style={{width: "81%"}}></img>
             <p>
-            The Chromium Connect is a fully automated system with walk-away convenience and performs single-cell gene expression and immune profiling workflows with ease. It offers automated library construction starting from cDNA (manually generated through Chromium X) using a modular workflow. Thus, the Connect maximizes productivity and throughput, while ensuring consistent and reproducible results.  
+            The Chromium Connect is a fully automated system with walk-away convenience that performs single-cell gene expression and immune profiling workflows with ease. It offers automated library construction starting from cDNA (manually generated through Chromium X) using a modular workflow. Thus, the Connect maximizes productivity and throughput, while ensuring consistent and reproducible results.  
             </p>
           </div>
         </div>

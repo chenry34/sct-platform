@@ -3,12 +3,12 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function pricing() {
   return (
     <>
-      <TechnologyHeader title="Fluorescence Activated Cell Sorting" page="pricing" technology="fluorescent-activated-cell-sorting"></TechnologyHeader>
+      <TechnologyHeader title="Fluorescence Activated Cell Sorting" page="pricing" technology="fluorescence-activated-cell-sorting"></TechnologyHeader>
       <div className="container">
       <table align="center" className="mt-4 table table-responsive">
           <thead>
             <tr>
-              <th><strong>Fee-for-service</strong></th>
+              <th>Fee-for-service</th>
               <th>First 40 hours</th>
               <th>After 40 hours</th>
             </tr>

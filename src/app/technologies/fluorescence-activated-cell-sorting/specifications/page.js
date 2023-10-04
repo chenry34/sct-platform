@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function specifications() {
   return (
     <>
-      <TechnologyHeader title="Fluorescent Activated Cell Sorting" page="specifications" technology="fluorescent-activated-cell-sorting"></TechnologyHeader>
+      <TechnologyHeader title="Fluorescence Activated Cell Sorting" page="specifications" technology="fluorescence-activated-cell-sorting"></TechnologyHeader>
       <div className="container">
         <table className="mt-4 table table-bordered table-responsive">
           <thead>
@@ -54,8 +54,8 @@ export default function specifications() {
         <h6 className="mt-3"><strong>Collection:</strong></h6>
         <ul>
           <li>4-way sorting: 1.5-, 2.0-, and 5.0-mL tubes</li>
-          <li>2-way sorting: 1.5-, 2.0- and 5.0-mL tubes</li>
-          <li>1-way sorting: 6, 24, 48, 96 and 384-well plates, 96-well PCR, microscope slides</li>
+          <li>2-way sorting: 1.5-, 2.0-, and 5.0-mL tubes</li>
+          <li>1-way sorting: 6-, 24-, 48-, 96- and 384-well plates, 96-well PCR, microscope slides</li>
         </ul>
         <h6 className="mt-3"><strong>Temperature control:</strong></h6>
         <ul>

@@ -12,7 +12,7 @@ export default function members() {
               subTitle="BD FACSMelody​"
               subTitle2="​ "
               image="/facs.png"
-              url="/technologies/fluorescent-activated-cell-sorting"
+              url="/technologies/fluorescence-activated-cell-sorting"
             >
             </TechnologyCard>
           </div>
