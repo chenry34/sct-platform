@@ -2,6 +2,7 @@ import './globals.css'
 import { Inter } from 'next/font/google'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faXTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { Analytics } from '@vercel/analytics/react';
 import { } from '@fortawesome/fontawesome-svg-core'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -54,6 +55,7 @@ export default function RootLayout({ children }) {
           </div>
         </div>
         {children}
+        <Analytics />
         <img className="mt-auto" src="/bottom-banner.png" style={{width: "100%"}}></img>
         <footer  className="text-center text-lg-start bg-light text-muted">
           <div className="container">
