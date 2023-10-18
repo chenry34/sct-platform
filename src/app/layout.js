@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faXTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { Analytics } from '@vercel/analytics/react';
 import { } from '@fortawesome/fontawesome-svg-core'
+import StatCounter from 'statcounter'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -77,6 +78,7 @@ export default function RootLayout({ children }) {
           </div>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"></script>
+        <StatCounter sc_project={12932404} sc_security="1c54fcf0" />
       </body>
     </html>
   )
