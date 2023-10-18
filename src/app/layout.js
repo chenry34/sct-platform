@@ -78,7 +78,7 @@ export default function RootLayout({ children }) {
           </div>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"></script>
-        <StatCounter sc_project={12932404} sc_security="1c54fcf0" />
+        <StatCounter sc_project={12932404} sc_security="1c54fcf0"/>
       </body>
     </html>
   )
