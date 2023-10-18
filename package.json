@@ -25,7 +25,6 @@
     "next": "13.4.13",
     "raphael": "^2.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "statcounter": "^0.1.1"
+    "react-dom": "18.2.0"
   }
 }

@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faXTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { Analytics } from '@vercel/analytics/react';
 import { } from '@fortawesome/fontawesome-svg-core'
-import StatCounter from 'statcounter'
+import StatCounter from '../custom_modules/statcounter.js'
 
 const inter = Inter({ subsets: ['latin'] })
 
