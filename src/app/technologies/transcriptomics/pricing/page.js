@@ -77,7 +77,7 @@ export default function pricing() {
             </tr>
             <tr>
               <td><strong>Cancellation Fee<sup>3</sup></strong></td>
-              <td>$55</td>
+              <td>$100</td>
               <td colSpan={2}></td>
             </tr>
           </tbody>
