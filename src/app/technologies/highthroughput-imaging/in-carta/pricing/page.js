@@ -49,6 +49,7 @@ export default function overview() {
         <p className="mt-0 mb-0" style={{fontSize: "14px"}}><sup>2</sup>Beginning 30 mins after start of scheduled appointment</p>
         <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 3 hours of scheduled appointment</p>
         <p className="mt-0 mb-3" style={{fontSize: "14px"}}>*prices are subject to change</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}>Users are responsible for their own data storage and should be prepared to save their data to a USB flash drive or external hard drive. External drives must be scanned with antivirus software to ensure that they are free of virus. Any data left on QuIPS Platform computers may be deleted at any time without notice.</p>
       </div>
     </>
   )
