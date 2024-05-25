@@ -21,7 +21,7 @@ export default function specifications() {
               <li>Cell Surface Protein Screening</li>
               <li>Single Cell CRISPR Screening</li>
             </ul> 
-            <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Assay for Transposase-Accessible Chromatin</p>
+            <p className="mt-3 mb-3" style={{fontSize: "14px"}}><sup>1</sup>Assay for Transposase-Accessible Chromatin</p>
           </div>
         </div>
       </div>
