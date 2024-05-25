@@ -20,7 +20,7 @@ export default function members() {
             <TechnologyCard
               title="Transcriptomics"
               subTitle="Chromium X"
-              subTitle2="Chromium Connect"
+              subTitle2="10X Genomics"
               image="/ChromiumX.png"
               url="/technologies/transcriptomics"
             >

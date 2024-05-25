@@ -24,8 +24,8 @@ export default function overview() {
           <div className="col-lg-6">
             <p>We provide two service options which include:</p>
             <ol>
-              <li>Library preparation (fee-for-service) (Chromium X and Chromium Connect)</li>
-              <li>Training and end user-performed library preparation (Chromium X)</li>
+              <li>Library preparation (fee-for-service)</li>
+              <li>Training and end user-performed library preparation</li>
             </ol>
             <p>Next-generation sequencing services are not currently provided; end users must arrange and submit their own samples for sequencing.</p>
             <p>Please contact us for more information about training, sample processing or how we can best assist you in your single cell sequencing library preparation. To ensure the most appropriate assays and kits are selected, we can also connect you with a 10X Genomics representative.</p>
