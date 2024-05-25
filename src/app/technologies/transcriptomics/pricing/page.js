@@ -5,7 +5,7 @@ export default function pricing() {
     <>
       <TechnologyHeader title="Transcriptomics" page="pricing" technology="transcriptomics"></TechnologyHeader>
       <div className="container">
-        <table align="center" className="mt-4 table table-responsive">
+        <table align="center" className="mt-4 table table-responsive" style={{ "maxWidth": "100vw"}} >
           <thead>
             <tr align="center">
               <th colSpan={4}><h4><strong>Chromium X</strong></h4></th>
