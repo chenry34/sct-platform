@@ -72,12 +72,12 @@ export default function pricing() {
             </tr>
             <tr>
               <td><strong>Late Fee<sup>2</sup></strong></td>
-              <td>$55/hour</td>
+              <td>$100/hour</td>
               <td colSpan={2}></td>
             </tr>
             <tr>
               <td><strong>Cancellation Fee<sup>3</sup></strong></td>
-              <td>$100</td>
+              <td>$55</td>
               <td colSpan={2}></td>
             </tr>
           </tbody>

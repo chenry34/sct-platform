@@ -35,7 +35,8 @@ export default function contact() {
                   <div className="col-sm-6 mt-3">
                     <p>
                       arshani.alukumbura@umanitoba.ca<br></br>
-                      nicole.neudorf@umanitoba.ca
+                      nicole.neudorf@umanitoba.ca<br></br>
+                      obinna.ohaegbula@umanitoba.ca
                     </p>
                   </div>
                 </div>
