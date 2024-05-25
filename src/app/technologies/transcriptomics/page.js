@@ -6,8 +6,9 @@ export default function overview() {
       <TechnologyHeader title="Transcriptomics" page="overview" technology="transcriptomics"></TechnologyHeader>
       <div className="container mb-3">
         <div className="row mt-4">
-          <div className="col-lg-6">
-            <img src="/Transcriptomics.png" className="img-fluid rounded-start" style={{float: "left"}}/>
+          <div className="col-lg-1"></div>
+          <div className="col-lg-4">
+            <img src="/ChromiumX.png" className="img-fluid rounded-start" style={{float: "right", height: "80%"}}/>
           </div>
           <div className="col-lg-6">
             <p>
