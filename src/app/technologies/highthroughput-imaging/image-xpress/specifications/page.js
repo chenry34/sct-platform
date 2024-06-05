@@ -58,8 +58,8 @@ export default function specifications() {
         </table>
         <h6 className="mt-3"><strong>Compatible Slide Formats:</strong></h6>
         <ul>
-          <li>Microscopy Slides</li>
-          <li>6-well</li>
+          {/* <li>Microscopy Slides</li>
+          <li>6-well</li> */}
           <li>24-well</li>
           <li>96-well</li>
           <li>384-well</li>
