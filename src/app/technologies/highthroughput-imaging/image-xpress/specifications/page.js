@@ -70,8 +70,8 @@ export default function specifications() {
           <li>2x Plan Apo Lambda (Installed); Numerical Aperture (NA): 0.10</li>
           <li>10x Plan Apo Lambda (Installed); NA: 0.45</li>
           <li>20x S Plan Fluor; NA: 0.45</li>
-          <li>20x CFI Apochromat (Installed); NA: 0.95</li>
-          <li>40x Immersion CFI Apochromat; NA: 1.15</li>
+          <li>20x Water Immersion CFI Apochromat (Installed); NA: 0.95</li>
+          <li>40x CFI Apochromat; NA: 1.15</li>
           <li>60x Water Immersion CFI Plan Apochromat VC (Installed); NA: 1.2</li>
         </ul>
         <h6 className="mt-3"><strong>Plate Combatibility:</strong></h6>
