@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function specifications() {
   return (
     <>
-      <TechnologyHeader title="IN Carta Image Analysis Software" page="specifications" technology="/highthroughput-imaging/in-carta"></TechnologyHeader>
+      <TechnologyHeader title="IN Carta Image Analysis Software" page="specifications" technology="/imaging/highthroughput-imaging/in-carta"></TechnologyHeader>
       <div className="container">
         <h6 className="mt-3"><strong>Examples of Applications/Assays:</strong></h6>
         <ul>

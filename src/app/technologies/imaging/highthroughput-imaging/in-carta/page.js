@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function overview() {
   return (
     <>
-      <TechnologyHeader title="IN Carta Image Analysis Software" page="overview" technology="/highthroughput-imaging/in-carta"></TechnologyHeader>
+      <TechnologyHeader title="IN Carta Image Analysis Software" page="overview" technology="/imaging/highthroughput-imaging/in-carta"></TechnologyHeader>
       <div className="container mb-3">
         <div className="row">
           <div className="col-lg-6 mt-3">

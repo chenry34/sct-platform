@@ -45,7 +45,7 @@ export default function members() {
               subTitle2="​SpectraMax® iD3"
               subTitle3="IN Carta Image Analysis Software"
               image="/imx.png"
-              url="/technologies/highthroughput-imaging"
+              url="/technologies/imaging/highthroughput-imaging"
             >
             </TechnologyCard>
           </div>
@@ -69,6 +69,18 @@ export default function members() {
               subTitle3="CRISPR Screening"
               image="/crisper.png"
               url="/technologies/modeling-and-screening"
+            >
+            </TechnologyCard>
+          </div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-lg-6 d-flex align-items-stretch">
+            <TechnologyCard
+              title="Axio Imager"
+              subTitle="Zeiss AxioImager Z2"
+              subTitle2="Arivis Pro Software"
+              image="/axio.jpg"
+              url="/technologies/imaging/axio-imager"
             >
             </TechnologyCard>
           </div>

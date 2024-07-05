@@ -1,9 +1,9 @@
 import TechnologyHeader from "@/components/TechnologyHeader"
 
-export default function overview() {
+export default function pricing() {
   return (
     <>
-      <TechnologyHeader title="IN Carta Image Analysis Software" page="pricing" technology="/highthroughput-imaging/in-carta"></TechnologyHeader>
+      <TechnologyHeader title="SpectraMax® iD3 Multi-Mode Microplate Reader" page="pricing" technology="/imaging/highthroughput-imaging/spectramax"></TechnologyHeader>
       <div className="container">
         <table align="center" className="mt-4 table table-responsive">
           <tbody>

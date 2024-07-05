@@ -1,4 +1,4 @@
-import TechnologyCard from "../technologyCard"
+import TechnologyCard from "../../technologyCard"
 
 export default function overview() {
   return (
@@ -17,7 +17,7 @@ export default function overview() {
               subTitle="​ "
               subTitle2="​ "
               image="/spectramax.png"
-              url="/technologies/highthroughput-imaging/spectramax"
+              url="/technologies/imaging/highthroughput-imaging/spectramax"
             >
             </TechnologyCard>
             <TechnologyCard
@@ -25,7 +25,7 @@ export default function overview() {
               subTitle="​ "
               subTitle2="​ "
               image="/imx.png"
-              url="/technologies/highthroughput-imaging/image-xpress"
+              url="/technologies/imaging/highthroughput-imaging/image-xpress"
             >
             </TechnologyCard>
             <TechnologyCard
@@ -33,7 +33,7 @@ export default function overview() {
               subTitle="​ "
               subTitle2="​ "
               image="/cells.jpg"
-              url="/technologies/highthroughput-imaging/in-carta"
+              url="/technologies/imaging/highthroughput-imaging/in-carta"
             >
             </TechnologyCard>
           </div>

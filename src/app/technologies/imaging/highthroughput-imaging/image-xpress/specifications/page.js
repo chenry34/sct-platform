@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function specifications() {
   return (
     <>
-      <TechnologyHeader title="ImageXpress" page="specifications" technology="/highthroughput-imaging/image-xpress"></TechnologyHeader>
+      <TechnologyHeader title="ImageXpress" page="specifications" technology="/imaging/highthroughput-imaging/image-xpress"></TechnologyHeader>
       <div className="container">
         <table className="mt-4 table table-bordered table-responsive">
           <thead>

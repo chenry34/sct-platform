@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function overview() {
   return (
     <>
-      <TechnologyHeader title="ImageXpress" page="overview" technology="/highthroughput-imaging/image-xpress"></TechnologyHeader>
+      <TechnologyHeader title="ImageXpress" page="overview" technology="/imaging/highthroughput-imaging/image-xpress"></TechnologyHeader>
       <div className="container mb-3">
         <div className="row mt-4">
           <div className="col-lg-6">

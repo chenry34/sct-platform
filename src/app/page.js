@@ -46,7 +46,7 @@ export default function Home() {
         createElement(paper, "CircleMenu2/Transcriptomics Only.png", width - elementWidth, elementHeight * 2.5, elementWidth, elementHeight, '/technologies/transcriptomics')
         createArrowElement(paper, "CircleMenu2/Arrow 3.png", (width / 2) + (elementWidth / 1.5), height - (elementHeight), width / 7, width / 10)
 
-        createElement(paper, "CircleMenu2/ImageXpress only.png", (width / 2) - (elementWidth / 2), elementHeight * 2.5 + elementHeight * 0.9, elementWidth, elementHeight, '/technologies/highthroughput-imaging')
+        createElement(paper, "CircleMenu2/imaging.png", (width / 2) - (elementWidth / 2), elementHeight * 2.5 + elementHeight * 0.9, elementWidth, elementHeight, '/technologies/imaging')
         createArrowElement(paper, "CircleMenu2/Arrow 4.png", (width / 2) - (elementWidth * 1.15), height - (elementHeight), width / 7, width / 10)
 
         createElement(paper, "CircleMenu2/Spatial Biology Only.png", 0, elementHeight * 2.5, elementWidth, elementHeight, '/technologies/spatial-biology')

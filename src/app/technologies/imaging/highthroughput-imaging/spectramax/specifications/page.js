@@ -3,7 +3,7 @@ import TechnologyHeader from "@/components/TechnologyHeader"
 export default function specifications() {
   return (
     <>
-      <TechnologyHeader title="SpectraMax® iD3 Multi-Mode Microplate Reader" page="specifications" technology="/highthroughput-imaging/spectramax"></TechnologyHeader>
+      <TechnologyHeader title="SpectraMax® iD3 Multi-Mode Microplate Reader" page="specifications" technology="/imaging/highthroughput-imaging/spectramax"></TechnologyHeader>
       <div className="container">
         <h6 className="mt-3"><strong>Imaging Modalities:</strong></h6>
         <ul>
