@@ -159,8 +159,8 @@ export default function home() {
                     <div className="row">
                       <div className='mt-3 col-sm-12 d-flex justify-content-center'>
                           <p className="card-text ms-3 me-3">Dr. Helen Chen is a cell biologist with extensive research experience specializing in stem cells and neurobiology, organoids, translational precision therapy in disease modelling, assay development and high-throughput drug screens. She received her B.S. in
-                            Biochemistry, her Ph.D. in Experimental Medicine from the University of British Columbia, and completed her postdoctoral training in Dr. Ryan Potts' research group at St. Jude Children's Research Hospital. Helen subsequently joined Dr. Heather Mefford's research
-                            team in the Center for Pediatric Neurodevelopmental Disease Research at St. Jude’s investigating rare, pediatric neurodevelopmental disorders and testing novel precision therapies. Since becoming a member of the QuIPS Platform, Helen has used her expertise
+                            Biochemistry, her Ph.D. in Experimental Medicine from the University of British Columbia, and completed her postdoctoral training in Dr. Ryan Potts&apos; research group at St. Jude Children&apos;s Research Hospital. Helen subsequently joined Dr. Heather Mefford&apos;s research
+                            team in the Center for Pediatric Neurodevelopmental Disease Research at St. Jude&apos;s investigating rare, pediatric neurodevelopmental disorders and testing novel precision therapies. Since becoming a member of the QuIPS Platform, Helen has used her expertise
                             and experience to assist researchers in advancing their projects and develop leading-edge assays pairing organoid development and high-throughput screening approaches to better model and characterize cancer development and identify novel precision medicine
                             strategies.
                           </p>
