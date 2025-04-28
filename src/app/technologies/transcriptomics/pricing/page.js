@@ -24,20 +24,20 @@ export default function pricing() {
             </thead>
             <tbody>
               <tr>
-                <td rowSpan={3}><strong>Fee-for-service</strong></td>
+                <td rowSpan={3}><strong>Fee-for-service</strong><br /> (4 samples per experiment)</td>
                 <td>PARI Member<sup>1</sup></td>
-                <td style={{width: "25%"}}>$330 for the first sample and $80 for each additional sample</td>
-                <td style={{width: "25%"}}>$485 for the first sample and $110 for each additional sample</td>
+                <td style={{width: "25%"}}>$470 for technician time and $80 per sample</td>
+                <td style={{width: "25%"}}>$660 for technician time and $130 per sample</td>
               </tr>
               <tr>
                 <td>University of Manitoba</td>
-                <td>$355 for the first sample and $105 for each additional sample</td>
-                <td>$520 for the first sample and $145 for each additional sample</td>
+                <td>$610 for technician time and $105 per sample</td>
+                <td>$860 for technician time and $170 per sample</td>
               </tr>
               <tr>
                 <td>Industry</td>
-                <td>$495 for the first sample and $240 for each additional sample</td>
-                <td>$730 for the first sample and $330 for each additional sample</td>
+                <td>$1410 for technician time and $240 per sample</td>
+                <td>$1980 for technician time and $390 per sample</td>
               </tr>
               <tr>
                 <td rowSpan={3}><strong>Training</strong></td>
@@ -59,17 +59,17 @@ export default function pricing() {
                 <td rowSpan={3}><strong>User</strong></td>
                 <td>PARI Member<sup>1</sup></td>
                 <td>$80 per sample</td>
-                <td>$110 per sample</td>
+                <td>$130 per sample</td>
               </tr>
               <tr>
                 <td>University of Manitoba</td>
                 <td>$105 per sample</td>
-                <td>$145 per sample</td>
+                <td>$170 per sample</td>
               </tr>
               <tr>
                 <td>Industry</td>
                 <td>$240 per sample</td>
-                <td>$330 per sample</td>
+                <td>$390 per sample</td>
               </tr>
               <tr>
                 <td><strong>Late Fee<sup>2</sup></strong></td>
@@ -88,7 +88,7 @@ export default function pricing() {
         <p className="mt-0 mb-3">We can provide you with a customized quote based on the number of samples and the type of assay you will perform. </p>
         <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
         <p className="mt-0 mb-0" style={{fontSize: "14px"}}><sup>2</sup>Beginning 30 mins after start of scheduled appointment</p>
-        <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 3 hours of scheduled appointment</p>
+        <p className="mt-0 mb-3" style={{fontSize: "14px"}}><sup>3</sup>Defined as cancellation within 24 hours of scheduled appointment</p>
         <p className="mt-0 mb-3" style={{fontSize: "14px"}}>*prices are subject to change</p>
       </div>
     </>

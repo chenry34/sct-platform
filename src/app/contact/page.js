@@ -36,7 +36,8 @@ export default function contact() {
                     <p>
                       arshani.alukumbura@umanitoba.ca<br></br>
                       nicole.neudorf@umanitoba.ca<br></br>
-                      obinna.ohaegbula@umanitoba.ca
+                      obinna.ohaegbula@umanitoba.ca<br />
+                      helen.chen1@umanitoba.ca
                     </p>
                   </div>
                 </div>
