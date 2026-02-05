@@ -139,51 +139,12 @@ export default function home() {
             <div className="row">
               <div className="col-lg-1 m-0 p-0 text-center"></div>
               <div className="col-lg-3 d-flex m-0 p-0 text-center">
-              <div className="card m-0" style={{minWidth: "100%", border: "none", borderRadius: "0px"}}>
-                  <img src="/helen.jpg" style={{minWidth: "100%"}}></img>
-                </div>
-              </div>
-              <div className="col-lg-7 d-flex m-0 p-0 text-center">
                 <div className="card m-0" style={{border: "none", borderRadius: "0px"}}>
-                  <div className="card-body" style={{alignItems: "center"}}>
-                    <div className="row mt-3">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h3 className="card-title">Dr. Helen Chen</h3>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='col-sm-12 d-flex justify-content-center'>
-                        <h6 className="card-title">QuIPS Platform Research Associate</h6>
-                      </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-3 col-sm-12 d-flex justify-content-center'>
-                          <p className="card-text ms-3 me-3">Dr. Helen Chen is a cell biologist with extensive research experience specializing in stem cells and neurobiology, organoids, translational precision therapy in disease modelling, assay development and high-throughput drug screens. She received her B.S. in
-                            Biochemistry, her Ph.D. in Experimental Medicine from the University of British Columbia, and completed her postdoctoral training in Dr. Ryan Potts&apos; research group at St. Jude Children&apos;s Research Hospital. Helen subsequently joined Dr. Heather Mefford&apos;s research
-                            team in the Center for Pediatric Neurodevelopmental Disease Research at St. Jude&apos;s investigating rare, pediatric neurodevelopmental disorders and testing novel precision therapies. Since becoming a member of the QuIPS Platform, Helen has used her expertise
-                            and experience to assist researchers in advancing their projects and develop leading-edge assays pairing organoid development and high-throughput screening approaches to better model and characterize cancer development and identify novel precision medicine
-                            strategies.
-                          </p>
-                        </div>
-                    </div>
-                    <div className="row">
-                      <div className='mt-3 pb-2 col-sm-12 d-flex justify-content-center'>
-                        <p className="card-text ms-3 me-3">helen.chen1@umanitoba.ca​</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-lg-1 m-0 p-0 text-center"></div>
-              <div className="col-lg-3 d-flex m-0 p-0 text-center">
-                <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
                   <img src="/0F0A8910.jpg" className="img-fluid"></img>
                 </div>
               </div>
               <div className="col-lg-7 d-flex m-0 p-0 text-center">
-                <div className="card m-0" style={{border: "none", backgroundColor: "#d1d9d3", borderRadius: "0px"}}>
+                <div className="card m-0" style={{border: "none", borderRadius: "0px"}}>
                   <div className="card-body" style={{alignItems: "center"}}>
                     <div className="row mt-3">
                       <div className='col-sm-12 d-flex justify-content-center'>
