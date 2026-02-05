@@ -84,6 +84,7 @@ export default function pricing() {
             </tbody>
           </table>
         </div>
+        <p className="mt-3 mb-3">To ensure efficient and equitable use of QuIPS Platform resources and promote experimental success, equipment and instrument bookings will only be accepted once all required reagents have been received by the end-user. For large-scale projects, users are strongly encouraged to perform a pilot study, as bookings for subsequent large-scale work can only proceed after pilot data have been collected, analyzed, and reviewed. This policy helps validate experimental workflows, minimize cancellations, and enhance data quality, ensuring fair access and reliable outcomes for all Platform users.</p>
         <p className="mt-3 mb-3">Prices include the cost to cover platform-provided-consumables and to cover technician time. It is important to note that the prices do not cover 10x Genomics reagent kits which are required to be purchased separately by users. Additional charges may apply due to special circumstances that may arise during the experiment.</p>
         <p className="mt-0 mb-3">We can provide you with a customized quote based on the number of samples and the type of assay you will perform. </p>
         <p className="mt-3 mb-0" style={{fontSize: "14px"}}><sup>1</sup>Paul Albrechtsen Research Institute CancerCare Manitoba</p>
