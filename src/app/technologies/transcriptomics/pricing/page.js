@@ -26,18 +26,18 @@ export default function pricing() {
               <tr>
                 <td rowSpan={3}><strong>Fee-for-service</strong><br /> (4 samples per experiment)</td>
                 <td>PARI Member<sup>1</sup></td>
-                <td style={{width: "25%"}}>$470 for technician time and $80 per sample</td>
-                <td style={{width: "25%"}}>$660 for technician time and $130 per sample</td>
+                <td style={{width: "25%"}}>$500 for technician time and $88 per sample</td>
+                <td style={{width: "25%"}}>$720 for technician time and $145 per sample</td>
               </tr>
               <tr>
                 <td>University of Manitoba</td>
-                <td>$610 for technician time and $105 per sample</td>
+                <td>$650 for technician time and $115 per sample</td>
                 <td>$860 for technician time and $170 per sample</td>
               </tr>
               <tr>
                 <td>Industry</td>
-                <td>$1410 for technician time and $240 per sample</td>
-                <td>$1980 for technician time and $390 per sample</td>
+                <td>$1500 for technician time and $270 per sample</td>
+                <td>$2160 for technician time and $390 per sample</td>
               </tr>
               <tr>
                 <td rowSpan={3}><strong>Training</strong></td>
@@ -58,18 +58,18 @@ export default function pricing() {
               <tr>
                 <td rowSpan={3}><strong>User</strong></td>
                 <td>PARI Member<sup>1</sup></td>
-                <td>$80 per sample</td>
-                <td>$130 per sample</td>
+                <td>$88 per sample</td>
+                <td>$145 per sample</td>
               </tr>
               <tr>
                 <td>University of Manitoba</td>
-                <td>$105 per sample</td>
-                <td>$170 per sample</td>
+                <td>$115 per sample</td>
+                <td>$185 per sample</td>
               </tr>
               <tr>
                 <td>Industry</td>
-                <td>$240 per sample</td>
-                <td>$390 per sample</td>
+                <td>$265 per sample</td>
+                <td>$435 per sample</td>
               </tr>
               <tr>
                 <td><strong>Late Fee<sup>2</sup></strong></td>

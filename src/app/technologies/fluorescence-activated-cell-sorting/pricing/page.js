@@ -14,15 +14,15 @@ export default function pricing() {
             </tr>
           </thead>
           <tbody>
-            <tr>
+            {/* <tr>
               <td>PARI Member<sup>1</sup></td>
               <td>$50/hour</td>
               <td>$30/hour</td>
-            </tr>
+            </tr> */}
             <tr>
               <td>University of Manitoba</td>
               <td>$70/hour</td>
-              <td>$40/hour</td>
+              <td>$35/hour</td>
             </tr>
             <tr>
               <td>Industry</td>

@@ -10,28 +10,28 @@ export default function pricing() {
             <tr>
               <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$30/hour</td>
-            </tr>
-            <tr>
-              <td>University of Manitoba</td>
               <td>$40/hour</td>
             </tr>
             <tr>
+              <td>University of Manitoba</td>
+              <td>$50/hour</td>
+            </tr>
+            <tr>
               <td>Industry</td>
-              <td>$90/hour</td>
+              <td>$120/hour</td>
             </tr>
             <tr>
               <td rowSpan={3}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$15/hour</td>
-            </tr>
-            <tr>
-              <td>University of Manitoba</td>
               <td>$20/hour</td>
             </tr>
             <tr>
+              <td>University of Manitoba</td>
+              <td>$30/hour</td>
+            </tr>
+            <tr>
               <td>Industry</td>
-              <td>$45/hour</td>
+              <td>$60/hour</td>
             </tr>
             <tr>
               <td><strong>Late Fee<sup>2</sup></strong></td>

@@ -13,41 +13,41 @@ export default function pricing() {
             <tr>
               <td width="33%" rowSpan={3}><strong>Fee-for-service</strong></td>
               <td width="33%">PARI Member<sup>1</sup></td>
-              <td width="33%">$25/hour</td>
+              <td width="33%">$35/hour</td>
             </tr>
             <tr>
               <td>University of Manitoba</td>
-              <td>$33/hour</td>
+              <td>$50/hour</td>
             </tr>
             <tr>
               <td>Industry</td>
-              <td>$50/hour</td>
+              <td>$105/hour</td>
             </tr>
             <tr>
               <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$30/hour</td>
-            </tr>
-            <tr>
-              <td>University of Manitoba</td>
               <td>$40/hour</td>
             </tr>
             <tr>
+              <td>University of Manitoba</td>
+              <td>$50/hour</td>
+            </tr>
+            <tr>
               <td>Industry</td>
-              <td>$60/hour</td>
+              <td>$120/hour</td>
             </tr>
             <tr>
               <td rowSpan={3}><strong>User</strong></td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$15/hour</td>
-            </tr>
-            <tr>
-              <td>University of Manitoba</td>
               <td>$20/hour</td>
             </tr>
             <tr>
-              <td>Industry</td>
+              <td>University of Manitoba</td>
               <td>$30/hour</td>
+            </tr>
+            <tr>
+              <td>Industry</td>
+              <td>$60/hour</td>
             </tr>
             <tr>
               <td><strong>Late Fee<sup>2</sup></strong></td>
@@ -69,28 +69,28 @@ export default function pricing() {
             <tr>
               <td width="33%" rowSpan={3}><strong>Fee-for-service</strong></td>
               <td width="33%">PARI Member<sup>1</sup></td>
-              <td width="33%">$150/experiment</td>
+              <td width="33%">$420 + $85/slide</td>
             </tr>
             <tr>
               <td>University of Manitoba</td>
-              <td>$200/experiment</td>
+              <td>$550 + $105/slide</td>
             </tr>
             <tr>
               <td>Industry</td>
-              <td>$300/experiment</td>
+              <td>$1300/slide</td>
             </tr>
             <tr>
               <td rowSpan={3}><strong>Training</strong></td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$30/hour</td>
-            </tr>
-            <tr>
-              <td>University of Manitoba</td>
               <td>$40/hour</td>
             </tr>
             <tr>
+              <td>University of Manitoba</td>
+              <td>$50/hour</td>
+            </tr>
+            <tr>
               <td>Industry</td>
-              <td>$60/hour</td>
+              <td>$120/hour</td>
             </tr>
             <tr>
               <td rowSpan={3}><strong>User</strong></td>
@@ -103,7 +103,7 @@ export default function pricing() {
             </tr>
             <tr>
               <td>Industry</td>
-              <td>$60/cycle</td>
+              <td>$90/cycle</td>
             </tr>
             <tr>
               <td><strong>Late Fee<sup>2</sup></strong></td>

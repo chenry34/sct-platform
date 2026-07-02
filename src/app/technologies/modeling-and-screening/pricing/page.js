@@ -27,11 +27,11 @@ export default function pricing() {
             <tr>
               <td rowSpan={3}>Fee-for-service</td>
               <td>PARI Member<sup>1</sup></td>
-              <td>$200 (for 4 distinct sgRNA clones per gene)</td>
+              <td>$230 (for 4 distinct sgRNA clones per gene)</td>
             </tr>
             <tr>
               <td>University of Manitoba</td>
-              <td>$260 (for 4 distinct sgRNA clones per gene)</td>
+              <td>$300 (for 4 distinct sgRNA clones per gene)</td>
             </tr>
             <tr>
               <td>Industry</td>
